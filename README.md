@@ -1,1 +1,1 @@
-# DIVE-MAP - Cell **DIVE** **M**ultiplex **A**nalysis **P**ipeline
+# DIVE-MAP: Cell **DIVE** **M**ultiplex **A**nalysis **P**ipeline
