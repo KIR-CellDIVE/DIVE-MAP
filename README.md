@@ -39,4 +39,4 @@ The [Multi Dimensional Viewer](https://github.com/Taylor-CCB-Group/MDV) is power
 
 
 ## How to cite
-Please, directly cite the respective projects and papers used in the above section. 
+Please, directly cite the respective projects and papers referenced in the above section. 
