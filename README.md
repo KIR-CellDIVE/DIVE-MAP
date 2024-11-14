@@ -38,5 +38,9 @@ This pipeline (https://github.com/Taylor-CCB-Group/SpOOx/) was developed at the 
 The [Multi Dimensional Viewer](https://github.com/Taylor-CCB-Group/MDV) is a powerful web based application for visualising, exploring and analysing multidimensional data such as multiplex microscopy images. The application is also developed at the University of Oxford. The output produced by the SpOOx pipeline (https://github.com/Taylor-CCB-Group/SpOOx/) can be readily plugged into the MDV for visualisation. The other analysis workflows come with their own set of visualisation tool but it would be possible to transform their output into an MDV-compatible format (but this is outside the scope of this work at this moment in time).
 
 
+## 4. Example segmentation and analysis workflow
+[Here](https://github.com/KIR-CellDIVE/wsi-workflow-example) we provide an example workflow starting from segmentation to spatial analysis utilising the [segmentation](https://github.com/KIR-CellDIVE/wsi-segmentation) and [analysis](https://github.com/KIR-CellDIVE/wsi-analysis) notebooks part of DIVE-MAP. This also includes comparisons to a QuPath-based segmentation approach. Moreover, this repository reproduces some of the figures and results shown in the accompanying STAR protocol publication (doi: TO BE ADDED).
+
+
 ## How to cite
 Please, directly cite the respective projects and papers referenced in the above section. 
