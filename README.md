@@ -39,7 +39,7 @@ The [Multi Dimensional Viewer](https://github.com/Taylor-CCB-Group/MDV) is a pow
 
 
 ## 4. Example segmentation and analysis workflow
-[Here](https://github.com/KIR-CellDIVE/wsi-workflow-example) we provide an example workflow starting from segmentation to spatial analysis utilising the [segmentation](https://github.com/KIR-CellDIVE/wsi-segmentation) and [analysis](https://github.com/KIR-CellDIVE/wsi-analysis) notebooks part of DIVE-MAP. This also includes comparisons to a QuPath-based segmentation approach. Moreover, this repository reproduces some of the figures and results shown in the accompanying STAR protocol publication (doi: TO BE ADDED).
+[Here](https://github.com/KIR-CellDIVE/wsi-workflow-example) we provide an example workflow starting from segmentation to spatial analysis utilising the [segmentation](https://github.com/KIR-CellDIVE/wsi-segmentation) and [analysis](https://github.com/KIR-CellDIVE/wsi-analysis) steps of DIVE-MAP. This also includes comparisons to a QuPath-based segmentation approach. Moreover, this repository reproduces some of the figures and results shown in the accompanying STAR protocol publication (doi: TO BE ADDED).
 
 
 ## How to cite
