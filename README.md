@@ -21,7 +21,7 @@ Originally developed for the MIBIscope, the `ark-analysis` (https://github.com/a
 
 
 ### 2.2 Generic pipeline
-A work-in-progress to make the analysis workflow presented by Korsunsky et al. ([paper](https://doi.org/10.1016%2Fj.medj.2022.05.002)/[github](https://github.com/immunogenomics/fibroblastatlas2022)) more generally accessible to be used for the clustering, phenotyping and analysis of Cell DIVE images. The `Apptainer` container  is available at https://github.com/KIR-CellDIVE/wsi-analysis.
+An adaptation of the analysis workflow presented by Korsunsky et al. ([paper](https://doi.org/10.1016%2Fj.medj.2022.05.002)/[github](https://github.com/immunogenomics/fibroblastatlas2022)) more generally accessible to be used for the clustering, phenotyping and analysis of Cell DIVE images. The `Apptainer` container  is available at https://github.com/KIR-CellDIVE/wsi-analysis.
 
 
 ### 2.3 SpOOx - Spatial Omics Oxford analysis pipeline [WIP]
