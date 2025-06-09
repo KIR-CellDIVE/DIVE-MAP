@@ -19,8 +19,6 @@ One of the initial steps of computational image analysis is whole cell segmentat
 
 Originally developed for the MIBIscope, the `ark-analysis` (https://github.com/angelolab/ark-analysis) toolbox is primarily focussed to work on multiple smaller FOVs from the same slide rather than on whole slide images. However, the whole slide image segmentation in the previous step (https://github.com/KIR-CellDIVE/wsi-segmentation) produces an `ark-analysis`-compatible file and folder structure, a segmentation mask and per-cell statistic which can be plugged into their analysis flow starting from the ["Pixel clustering with pixie" notebook](https://github.com/angelolab/ark-analysis#2-pixel-clustering-with-pixie).
 
-To make setting up the `ark-analysis` toolbox similar to the whole slide segmentation in the previous step and also deployable on an HPC system we have created a `Apptainer` container with setup instructions: https://github.com/KIR-CellDIVE/wsi-analysis-ark (WORK IN PROGRESS).
-
 
 ### 2.2 Generic pipeline
 A work-in-progress to make the analysis workflow presented by Korsunsky et al. ([paper](https://doi.org/10.1016%2Fj.medj.2022.05.002)/[github](https://github.com/immunogenomics/fibroblastatlas2022)) more generally accessible to be used for the clustering, phenotyping and analysis of Cell DIVE images. The `Apptainer` container  is available at https://github.com/KIR-CellDIVE/wsi-analysis.
